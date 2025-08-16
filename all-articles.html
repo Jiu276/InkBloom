@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Articles - InkBloom</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/breadcrumb.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1><a href="index.html" style="text-decoration: none; color: inherit;">InkBloom</a></h1>
+                    <span class="tagline">Curated Living</span>
+                </div>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="index.html#home" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-products.html" class="nav-link">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-articles.html" class="nav-link active">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html#about" class="nav-link">About</a>
+                    </li>
+                </ul>
+                <div class="nav-toggle">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="all-articles-main">
+        <div class="container">
+            <div class="page-header">
+                <div class="breadcrumb-nav">
+                    <a href="index.html" class="back-button">
+                        <svg class="back-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M19 12H5m7-7-7 7 7 7"/>
+                        </svg>
+                        <span>Back to Home</span>
+                    </a>
+                    <div class="breadcrumb-divider">/</div>
+                    <span class="current-page">All Articles</span>
+                </div>
+                <h1 class="page-title">All Articles</h1>
+                <p class="page-subtitle">Explore our complete collection of mindful living stories and insights</p>
+            </div>
+            
+            <div class="articles-filter">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All Articles</button>
+                    <button class="filter-btn" data-filter="lifestyle">Lifestyle</button>
+                    <button class="filter-btn" data-filter="wellness">Wellness</button>
+                    <button class="filter-btn" data-filter="technology">Technology</button>
+                    <button class="filter-btn" data-filter="fashion">Fashion</button>
+                </div>
+                <div class="articles-count">
+                    <span id="articlesCount">Loading articles...</span>
+                </div>
+            </div>
+            
+            <div class="all-articles-grid" id="allArticlesGrid">
+                <!-- All articles will be dynamically generated -->
+            </div>
+            
+            <div class="load-more-section" id="loadMoreSection" style="display: none;">
+                <button class="load-more-btn" id="loadMoreBtn">
+                    <span>Load More Articles</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>InkBloom</h3>
+                    <p>Curating beautiful products and mindful stories for intentional living.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html#products">Products</a></li>
+                        <li><a href="index.html#articles">Articles</a></li>
+                        <li><a href="all-articles.html">All Articles</a></li>
+                        <li><a href="index.html#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="#">Newsletter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Pinterest</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 InkBloom. Crafted with care for mindful living.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/all-articles.js"></script>
+</body>
+</html>

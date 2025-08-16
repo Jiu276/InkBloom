@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Products - InkBloom</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/breadcrumb.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1><a href="index.html" style="text-decoration: none; color: inherit;">InkBloom</a></h1>
+                    <span class="tagline">Curated Living</span>
+                </div>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="index.html#home" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-products.html" class="nav-link active">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-articles.html" class="nav-link">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html#about" class="nav-link">About</a>
+                    </li>
+                </ul>
+                <div class="nav-toggle">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="all-products-main">
+        <div class="container">
+            <div class="page-header">
+                <div class="breadcrumb-nav">
+                    <a href="index.html" class="back-button">
+                        <svg class="back-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M19 12H5m7-7-7 7 7 7"/>
+                        </svg>
+                        <span>Back to Home</span>
+                    </a>
+                    <div class="breadcrumb-divider">/</div>
+                    <span class="current-page">All Products</span>
+                </div>
+                <h1 class="page-title">Our Product Collection</h1>
+                <p class="page-subtitle">Thoughtfully curated products for conscious living and beautiful spaces</p>
+            </div>
+            
+            <div class="products-filter">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All Products</button>
+                    <button class="filter-btn" data-filter="home-decor">Home Decor</button>
+                    <button class="filter-btn" data-filter="wellness">Wellness</button>
+                    <button class="filter-btn" data-filter="furniture">Furniture</button>
+                    <button class="filter-btn" data-filter="accessories">Accessories</button>
+                </div>
+                <div class="products-count">
+                    <span id="productsCount">Loading products...</span>
+                </div>
+            </div>
+            
+            <div class="price-filter">
+                <label for="priceRange">Price Range:</label>
+                <select id="priceRange" class="price-select">
+                    <option value="all">All Prices</option>
+                    <option value="0-50">Under $50</option>
+                    <option value="50-100">$50 - $100</option>
+                    <option value="100-200">$100 - $200</option>
+                    <option value="200+">$200+</option>
+                </select>
+            </div>
+            
+            <div class="all-products-grid" id="allProductsGrid">
+                <!-- All products will be dynamically generated -->
+            </div>
+            
+            <div class="load-more-section" id="loadMoreSection" style="display: none;">
+                <button class="load-more-btn" id="loadMoreBtn">
+                    <span>Load More Products</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>InkBloom</h3>
+                    <p>Curating beautiful products and mindful stories for intentional living.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="all-products.html">Products</a></li>
+                        <li><a href="all-articles.html">Articles</a></li>
+                        <li><a href="index.html#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="#">Newsletter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Pinterest</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 InkBloom. Crafted with care for mindful living.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/all-products.js"></script>
+</body>
+</html>

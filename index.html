@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InkBloom - Product Recommendations & Lifestyle Blog</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1>InkBloom</h1>
+                    <span class="tagline">Curated Living</span>
+                </div>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="#home" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-products.html" class="nav-link">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="all-articles.html" class="nav-link">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link">About</a>
+                    </li>
+                </ul>
+                <div class="nav-toggle">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-background"></div>
+            <div class="hero-content">
+                <h2 class="hero-title">Discover Life's<br>Beautiful Moments</h2>
+                <p class="hero-subtitle">Curated products and thoughtful stories for mindful living</p>
+                <div class="hero-buttons">
+                    <button class="hero-btn primary">Explore Products</button>
+                    <button class="hero-btn secondary">Read Stories</button>
+                </div>
+            </div>
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">500+</span>
+                    <span class="stat-label">Curated Products</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">50K+</span>
+                    <span class="stat-label">Happy Customers</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">100+</span>
+                    <span class="stat-label">Lifestyle Articles</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="featured" class="featured-section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-badge">Featured</span>
+                    <h2 class="section-title">Editor's Choice</h2>
+                    <p class="section-subtitle">Handpicked items that embody quality, design, and purpose</p>
+                </div>
+                <div class="featured-grid">
+                    <div class="featured-card large">
+                        <img src="pic/Nordic Ceramic Vase.jpg" alt="Nordic Vase" class="featured-image">
+                        <div class="featured-content">
+                            <h3>Nordic Ceramic Collection</h3>
+                            <p>Minimalist designs that bring tranquility to your living space</p>
+                            <span class="featured-price">From $45</span>
+                        </div>
+                    </div>
+                    <div class="featured-card">
+                        <img src="pic/Japanese Bamboo Tea Set.jpg" alt="Tea Set" class="featured-image">
+                        <div class="featured-content">
+                            <h3>Bamboo Tea Ceremony</h3>
+                            <p>Traditional craftsmanship meets modern mindfulness</p>
+                            <span class="featured-price">$88</span>
+                        </div>
+                    </div>
+                    <div class="featured-card">
+                        <img src="pic/Smart Aromatherapy Diffuser.png" alt="Diffuser" class="featured-image">
+                        <div class="featured-content">
+                            <h3>Smart Aromatherapy</h3>
+                            <p>Transform your space with scent and ambient lighting</p>
+                            <span class="featured-price">$59</span>
+                        </div>
+                    </div>
+                    <div class="featured-card">
+                        <img src="pic/Hand-woven Wool Rug.jpg" alt="Wool Rug" class="featured-image">
+                        <div class="featured-content">
+                            <h3>Artisan Wool Rug</h3>
+                            <p>Hand-woven comfort with modern geometric patterns</p>
+                            <span class="featured-price">$199</span>
+                        </div>
+                    </div>
+                    <div class="featured-card">
+                        <img src="pic/Creative Wooden Bookshelf.jpg" alt="Bookshelf" class="featured-image">
+                        <div class="featured-content">
+                            <h3>Tree-Shaped Bookshelf</h3>
+                            <p>Creative storage that doubles as living art</p>
+                            <span class="featured-price">$129</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="products" class="products-section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-badge">Products</span>
+                    <h2 class="section-title">Curated Collection</h2>
+                    <p class="section-subtitle">Thoughtfully selected products for conscious living</p>
+                </div>
+                <div class="products-grid" id="productsGrid">
+                    <!-- Product cards will be dynamically generated -->
+                </div>
+                <div class="section-footer">
+                    <button class="load-more-btn"><span>View All Products</span></button>
+                </div>
+            </div>
+        </section>
+
+        <section id="articles" class="articles-section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-badge">Stories</span>
+                    <h2 class="section-title">Mindful Living</h2>
+                    <p class="section-subtitle">Insights and inspiration for intentional living</p>
+                </div>
+                <div class="articles-grid" id="articlesGrid">
+                    <!-- Article cards will be dynamically generated -->
+                </div>
+                <div class="section-footer">
+                    <button class="load-more-btn"><span>View All Articles</span></button>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="container">
+                <div class="about-content">
+                    <div class="about-text">
+                        <h2>Our Story</h2>
+                        <p>InkBloom was born from a simple belief: that the objects we choose and the stories we tell shape our daily experience. We curate beautiful, functional products and share thoughtful insights about living with intention.</p>
+                        <p>Every item in our collection is chosen for its quality, design, and ability to bring joy to everyday moments. Our articles explore themes of mindfulness, sustainability, and the art of living well.</p>
+                        <div class="about-stats">
+                            <div class="about-stat">
+                                <strong>Founded in 2020</strong>
+                                <span>Born from passion for conscious living</span>
+                            </div>
+                            <div class="about-stat">
+                                <strong>Global Community</strong>
+                                <span>Readers and customers worldwide</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="about-image">
+                        <img src="https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500" alt="About Us">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>InkBloom</h3>
+                    <p>Curating beautiful products and mindful stories for intentional living.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#products">Products</a></li>
+                        <li><a href="#articles">Articles</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="#">Newsletter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">Pinterest</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 InkBloom. Crafted with care for mindful living.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
