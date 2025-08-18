@@ -97,7 +97,7 @@ const articles = [
     {
         id: 7,
         title: "Trendy & Affordable Fashion Awaits on Depop",
-        date: "March 18, 2024",
+        date: "August 18, 2025",
         author: "Maya Chen",
         image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600",
         excerpt: "Discover the world of unique, sustainable fashion on Depop - where vintage treasures meet contemporary style and affordability meets authenticity in a vibrant global marketplace...",
@@ -182,7 +182,7 @@ const articles = [
     {
         id: 8,
         title: "nugs.net: Bringing Live Music Experiences to Your Home",
-        date: "March 20, 2024",
+        date: "July 20, 2025",
         author: "Jordan Rivers",
         image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600",
         excerpt: "In an era where live music has been transformed by technology, nugs.net emerges as the premier destination for high-quality concert streaming, bringing the magic of live performances directly to music lovers worldwide...",
@@ -271,7 +271,7 @@ const articles = [
     {
         id: 1,
         title: "The Art of Slow Living: Finding Inner Peace in a Fast-Paced World",
-        date: "March 15, 2024",
+        date: "May 15, 2025",
         author: "Emma Wilson",
         image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600",
         excerpt: "In our pressure-filled, anxiety-inducing fast-paced society, slow living is more than a lifestyle choice—it's a philosophy of returning to our inner selves and finding our true essence...",
@@ -315,7 +315,7 @@ const articles = [
     {
         id: 2,
         title: "Minimalist Living Guide: The Philosophy of Less is More",
-        date: "March 10, 2024",
+        date: "March 10, 2025",
         author: "David Chen",
         image: "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600",
         excerpt: "Minimalism isn't about poverty—it's about choice. It allows us to focus on truly important things, breaking free from material constraints to find life's essence...",

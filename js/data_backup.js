@@ -97,7 +97,7 @@ const articles = [
     {
         id: 7,
         title: "Trendy & Affordable Fashion Awaits on Depop",
-        date: "March 18, 2024",
+        date: "August 18, 2025",
         author: "Maya Chen",
         image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600",
         excerpt: "Discover the world of unique, sustainable fashion on Depop - where vintage treasures meet contemporary style and affordability meets authenticity in a vibrant global marketplace...",
@@ -182,7 +182,7 @@ const articles = [
     {
         id: 8,
         title: "nugs.net: Bringing Live Music Experiences to Your Home",
-        date: "March 20, 2024",
+        date: "July 20, 2025",
         author: "Jordan Rivers",
         image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600",
         excerpt: "In an era where live music has been transformed by technology, nugs.net emerges as the premier destination for high-quality concert streaming, bringing the magic of live performances directly to music lovers worldwide...",
