@@ -1218,10 +1218,10 @@ section:nth-child(even) {
 }
 
 .article-detail {
-    max-width: 800px;
+    max-width: 1040px;
     margin: 0 auto 80px auto;
     background: white;
-    padding: 48px;
+    padding: clamp(40px, 4vw, 56px);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-sm);
     line-height: 1.8;

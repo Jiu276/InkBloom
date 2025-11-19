@@ -95,6 +95,95 @@ const products = [
 // Sample article data
 const articles = [
     {
+        id: 9,
+        title: "Seamless Door-to-Door Travel: Airport, Hotel & City Transfers",
+        date: "September 24, 2025",
+        author: "Lena Torres",
+        image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=600",
+        excerpt: "From red-eye arrivals to late-night departures, here’s how I stitch airport, hotel, and city hops into one seamless door-to-door flow with plenty of heart and zero frantic scrambling—thanks to Hoppa’s steady backup.",
+        content: `
+            <p>One of the most chaotic travel memories I have is landing in Lisbon at 5 a.m., running on zero sleep, clutching a dying phone, and dragging my sister plus two giant suitcases toward a taxi line that looked like it touched the horizon. That’s when it clicked for me: the soul of a trip isn’t just the destination—it’s the way you move between the airport, the hotel lobby, and the neighborhoods you want to explore.</p>
+
+            <p>Ever since, I pre-book <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Hoppa</a> for my <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">door-to-door travel</a>. Stepping off the plane and spotting someone smiling with my name on a placard feels like exhaling after holding my breath for hours. That small act of being expected softens the edges of even the longest travel day.</p>
+
+            <img src="https://images.unsplash.com/photo-1518684079-3c830dcef090?w=600" alt="Passenger walking out of the airport terminal to meet a driver holding a name sign" class="article-detail-image">
+
+            <h2>Why Door-to-Door Transfers Still Matter</h2>
+            <p>We obsess over boutique hotels, dinner reservations, and the perfect rooftop photo, but we often leave “getting from A to B” to last-minute improvisation. Real life has other plans: delayed flights, cranky kids, extra camera gear, or simply not speaking the local language.</p>
+
+            <p>When I book <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">airport transfers</a> in advance, the arrival hall becomes a place of calm. Families avoid meltdowns, business travelers protect their focus, and solo explorers feel that comforting layer of safety. It’s a modest investment that pays off in emotional bandwidth.</p>
+
+            <img src="https://images.unsplash.com/photo-1521292270410-a8c53642e9d0?w=600" alt="Family loading luggage into a private transfer outside an airport" class="article-detail-image">
+
+            <h2>Stitching Airport, Hotel, and City Hops Together</h2>
+            <p>The best itineraries have rhythm. Maybe you land, drop bags at the hotel, sneak out for brunch, and squeeze in a bookstore visit before your afternoon meetings. By plotting these “micro hops” ahead of time, my trips gain spontaneity without chaos.</p>
+
+            <p>I keep a simple grid in Notes: column one lists flights or trains, column two lists lobby meetups, column three stores each <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">hotel transfer</a> or <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">city transfer</a> with vehicle details, driver names, and contact links. Because Hoppa syncs everything, the moment I slide into the back seat I can finally relax instead of juggling logistics.</p>
+
+            <img src="https://images.unsplash.com/photo-1519729387623-1c039f198f10?w=600" alt="City skyline at sunset viewed from the back seat of a car" class="article-detail-image">
+
+            <h3>Prep Habits That Keep Me Sane</h3>
+            <p>These rituals take five minutes but save entire afternoons:</p>
+
+            <ul>
+                <li><strong>Add your flight number:</strong> <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Hoppa</a> will auto-track delays so you’re not texting support in a security line.</li>
+                <li><strong>Flag bulky gear:</strong> Golf clubs, strollers, lighting kits—just mention them so the platform can pair you with a vehicle that actually fits your life.</li>
+                <li><strong>Pin the support chat:</strong> During a trip to Marrakech I needed to nudge a <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">city transfer</a> two hours later; one quick chat on the airport Wi-Fi and it was done before boarding was even called.</li>
+            </ul>
+
+            <img src="https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=600" alt="Traveler checking transfer details on a smartphone in front of airport windows" class="article-detail-image">
+
+            <h2>Soft-Landing Your Campaigns</h2>
+            <p>In advertising land, the most persuasive lines don’t scream “limited-time promo.” They gently erase the worry someone doesn’t know how to name yet. When our autumn flight-plus-hotel pushes go live, we lace <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">door-to-door transfers</a> through the narrative:</p>
+
+            <p>“Touch down in Athens, trade the jetway for a rooftop spritz in under one sunset.”<br>
+            “Step off the plane and slide straight toward a mountain hot spring with nothing but steam on your mind.”</p>
+
+            <p>Those lines sound dreamy, but they’re really about answering, “Will I get stranded at the curb?” Answer it before people ask, and you’ve earned trust. Whether you’re crafting a bleisure sprint or an indulgent multi-city slow tour, anchoring every leg with reliable <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">airport transfers</a> keeps the rest of the itinerary free for serendipity. Then go ahead—get lost in the city, chase the sunset, know someone’s waiting to drive you safely to what’s next.</p>
+        `
+    },
+    {
+        id: 10,
+        title: "Search, Compare & Book Your Perfect Airport Transfer",
+        date: "October 12, 2025",
+        author: "Marcus Lee",
+        image: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=600",
+        excerpt: "A good trip isn’t defined by miles flown—it’s by how gently you’re caught when you land. Here’s my people-first way to Search, Compare & Book airport transfers through Hoppa without losing the romance of travel.",
+        content: `
+            <p>If there’s one moment that decides how you feel about a city, it’s the few steps after you clear customs. The air smells different, your phone is arguing with the local network, and you’re suddenly juggling the question: “How do I actually get to the place where I can exhale?”</p>
+
+            <p>I’ve spent half my adult life in terminals thanks to a career in travel marketing, so my ritual starts with the <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Hoppa</a> <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Search, Compare & Book</a> flow. I plug in the airport, the hotel, the flight number, then browse transfer options the way I browse a café menu—lingering over the descriptions before choosing the one that feels right for the day I’m about to have.</p>
+
+            <h2>Search with Context, Not Just Price</h2>
+            <p>Too many travelers sort <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">airport transfers</a> by lowest fare and call it a day. But context matters. Are you landing with two sleepy kids? Are you hauling a snowboard bag? Are you walking out into humid summer air or icy tarmac?</p>
+
+            <p>When I use <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Search, Compare & Book</a>, I focus on:</p>
+            <ul>
+                <li><strong>Meet-and-greet vs. curbside:</strong> I want to know whether someone is waiting with a sign or if I need to navigate to a parking bay.</li>
+                <li><strong>Luggage capacity:</strong> The listing usually tells you how many bags fit comfortably—gold for photography gear or stroller families.</li>
+                <li><strong>Driver notes:</strong> When I see “speaks fluent English” or “happy to help with luggage,” I instantly feel calmer stepping into a new country.</li>
+            </ul>
+
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600" alt="Traveler using a tablet to compare different airport transfer offers" class="article-detail-image">
+
+            <h2>Creative Ways to Compare (That Help Your Copy Too)</h2>
+            <p>Because I write for a living, I can’t help turning comparisons into story prompts. I divide a spreadsheet into three columns: arrival scenario, <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">airport transfer</a> type, and “surprise factor.” It keeps my thinking anchored in real-life needs while sparking softer headlines like:</p>
+
+            <p>“Tokyo’s sunrise isn’t rushed—you’re just gliding through it in a quiet car with neon in your rearview.”<br>
+            “From ski slope to chalet without lifting a single suitcase.”</p>
+
+            <p>Each line sounds poetic, yet all I’m really saying is: remember to pre-book the right car. That’s the magic of a good soft placement—you protect the reader’s daydream while gently handing them a solution.</p>
+
+            <h3>Booking Touchpoints that Build Confidence</h3>
+            <p>Clicking “Book” feels like the emotional point of no return. My brain switches from “maybe I’ll go” to “this trip is really happening.” So I treat it with intention:</p>
+            <p>I screenshot the confirmation, drop it into the shared trip folder, forward the email to whoever’s coming with me, and star the message in my inbox. When a flight changes last minute, I open the <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Hoppa</a> dashboard, scan all upcoming rides, and reshuffle without the usual panic. That quiet confidence is priceless on launch weeks and personal trips alike.</p>
+
+            <img src="https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?w=600" alt="Close-up of a booking confirmation on a smartphone with luggage in the background" class="article-detail-image">
+
+            <p>When peak-season campaigns go live, I pair destination guides with a gentle reminder to <a href="https://www.hoppa.com/en" target="_blank" rel="noopener">Search, Compare & Book</a> transfers ahead of time. Readers get insider reassurance; brands earn the “you thought of everything” halo. And for those of us who live out of suitcases, it’s simply one more promise kept: no matter where we land, someone will be there, engine idling, ready to usher us into the next chapter of the trip.</p>
+        `
+    },
+    {
         id: 7,
         title: "Trendy & Affordable Fashion Awaits on Depop",
         date: "August 18, 2025",
