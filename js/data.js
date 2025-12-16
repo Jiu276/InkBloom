@@ -95,6 +95,42 @@ const products = [
 // Sample article data
 const articles = [
     {
+        id: 13,
+        title: "Bradford Exchange Exclusive: Precious Moments™ Figurines",
+        date: "December 6, 2025",
+        author: "Naomi Fields",
+        image: "dolls1.png",
+        excerpt: "How I fell back in love with Precious Moments™ by browsing BradfordExchange exclusives—hand-painted details, certificates of authenticity, and stories that feel like real-life hugs, not holiday hype.",
+        content: `
+            <p>The first Precious Moments™ figurine I ever held was my aunt’s “Love One Another.” She kept it on a sunlit windowsill and would tell us, “Every chip and repaint is part of our story.” Years later, I went looking for that same tenderness and landed on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a>. Their Precious Moments™ exclusives aren’t just products; they read like small, signed letters from the artists.</p>
+
+            <img src="dolls2.png" alt="Whimsical elf-style figurine posed beside a gingerbread house" class="article-detail-image">
+
+            <h2>What Feels Different Here</h2>
+            <p>Each listing on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a> shows the sculptor’s name, hand-painted steps, and edition size. When I tuck a certificate from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a> into a gift box, it feels like handing over provenance instead of saying, “Here’s something I clicked on.”</p>
+
+            <p>They also describe the glazing and color choices in plain language. Knowing a blush tone was chosen to mirror early-morning light makes it easier to tell the recipient why I picked that exact piece. It turns “I bought you a figurine” into “I saw us in this scene.”</p>
+
+            <h2>How I Choose the Right Piece</h2>
+            <p>I browse by memory first, price later. For a friend’s adoption celebration, I searched “blessing” and “family” on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a> until a figurine with two parents and a bundled baby made me tear up. For my parents’ 40th, I filtered by “anniversary” and “travel” because their favorite ritual is plotting the next road trip over coffee.</p>
+
+            <ul>
+                <li><strong>Certificate first:</strong> I screenshot the authenticity section from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a> and print it for the card so the story and the source travel together.</li>
+                <li><strong>Time the delivery:</strong> I pick ship dates that land on milestones—recitals, homecomings, first holidays—so the figurine becomes a timestamp, not just décor.</li>
+                <li><strong>Attach a ritual:</strong> I add a note: “Place this by the bedside lamp and look at it before turning in.” It invites the piece into their routine.</li>
+            </ul>
+
+            <img src="dolls3.png" alt="Elegant angel figurine displayed in front of a glowing Christmas tree" class="article-detail-image">
+
+            <h2>Soft Placement Over Hard Sell</h2>
+            <p>When I share recommendations, I skip banners. I’ll write a paragraph about my niece whispering that her angel figurine “looks like me,” then quietly link the word “angel” back to <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a>. It feels like sharing a secret, not pushing a cart.</p>
+
+            <p>When the box arrives—foam cutouts snug around the figurine, certificate tucked inside, the familiar logo from <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=a898gIaz3Yl9RTQ7xoRsl4MFMPqievh1ztVw6dpnkDJ_bFPNx0XFwWnnD_bzW9HJ1mCfjHVuBO3Uky_bNPaAfpeAmg_c&new=https%3A%2F%2Fwww.bradfordexchange.com%2F" target="_blank" rel="noopener">BradfordExchange</a> on the flap—it feels less like a transaction and more like a small heirloom choosing its next home.</p>
+
+            <p>A week later, I usually get a photo of that figurine perched on a mantel with a caption like, “This is us in porcelain.” That’s when I know the quiet link I tucked under “family” did its job—connecting someone to a piece that now holds their own story.</p>
+        `
+    },
+    {
         id: 12,
         title: "Bradford Exchange: Unique Christmas Gifts & Collectibles Since 1973",
         date: "November 5, 2025",
