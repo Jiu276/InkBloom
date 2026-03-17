@@ -95,6 +95,61 @@ const products = [
 // Sample article data
 const articles = [
     {
+        id: 14,
+        title: "Cécred's Nourishing Hair Oil: All the Shine with No Silicones",
+        date: "March 5, 2026",
+        author: "Rowan Blake",
+        image: "pic/cecred-nourishing-hair-oil.jpg",
+        excerpt: "A silicone-free hair oil can still deliver mirror-like shine—if it’s built around lightweight nourishment, smart layering, and the right finishing rituals. Here’s how Cécred's Nourishing Hair Oil fits into a real, slightly chaotic wash-day routine without the heavy, coated feel.",
+        content: `
+            <p>There’s a very specific kind of shine that makes hair look healthy: soft, reflective, and touchable—never slick or plastic. I’ve been chasing that “glass hair” finish for years, but most quick-fix oils get there with one familiar shortcut: silicones. They can look gorgeous, but they can also leave a slippery film that makes curls collapse, fine hair go flat, and buildup feel inevitable.</p>
+
+            <p>My breaking point was a Monday morning Zoom call. I’d smoothed a “miracle” serum over my ends the night before, and by 10 a.m. my hair looked like I’d rinsed it in cooking oil. Every time I tucked a piece behind my ear, my fingers felt coated. That was the day I promised myself I’d stop treating shine like a special-effects filter and start looking for formulas that actually respected my hair.</p>
+
+            <p>That’s why I was curious about <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred</a>—especially the way <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> talks about shine. The promise is simple and surprisingly calm: you can get the glow <em>without</em> relying on silicones—by focusing on nourishment, slip, and a finish that doesn’t weigh hair down. That language immediately felt different from the usual “instant glass hair!!!” banners.</p>
+
+            <img src="pic/cecred-nourishing-hair-oil-lifestyle.jpg" alt="Cécred Nourishing Hair Oil in a real-life styling moment" class="article-detail-image">
+
+            <h2>What “No Silicones” Actually Means for Shine</h2>
+            <p>Silicone-free doesn’t mean “no shine.” It means the shine comes from the hair’s surface being smoother and better-conditioned, not from a thick coating that sits on top. When I’m evaluating an oil like <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a>, I’m looking for three things:</p>
+            <ul>
+                <li><strong>Lightweight slip:</strong> detangles and reduces friction without making hair feel greasy or “sealed in plastic.”</li>
+                <li><strong>Real softness over time:</strong> hair feels better the next morning—not just for the first hour under good bathroom lighting.</li>
+                <li><strong>A finish that layers well:</strong> it should play nicely with leave-ins, creams, gels, heat protectants, and whatever else lives in your wash-day lineup.</li>
+            </ul>
+
+            <p>With <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred</a>, that softness shows up quietly. There’s no crunchy cast, no mysterious film on my pillowcase—just that feeling of “oh, my ends don’t sound like dry leaves when I run my fingers through them.” It’s subtle in the best way.</p>
+
+            <h2>How I Actually Use Cécred’s Nourishing Hair Oil</h2>
+            <p>Hair oil is one of those products where technique matters as much as the formula. The first night I tested <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a>, I did what I always do—way too much, way too fast. Lesson learned. Here’s the routine that actually gives me shine while keeping movement and volume:</p>
+            <ol>
+                <li><strong>On damp hair (the “seal” step):</strong> After my usual leave-in, I warm 1–2 drops between palms and press it into mid-lengths and ends. This is where <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred</a> feels most “nourishing,” because it helps lock in softness as hair dries without that shellacked feeling.</li>
+                <li><strong>On dry hair (the “polish” step):</strong> On non-wash days, I use <em>half a drop</em> rubbed over my fingertips and lightly pinch the very ends—especially if I’m wearing my hair down and want light to catch the texture around my face.</li>
+                <li><strong>Before protective styles:</strong> A tiny amount on the ends before braids or a bun keeps things flexible and reduces that crunchy, frayed look when I finally take everything down at night.</li>
+            </ol>
+
+            <p>There’s a small, very human moment I’ve come to love: standing in front of the mirror late at night, working one last drop of <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> through my ends while the house finally goes quiet. It feels less like “doing my hair” and more like tucking myself in.</p>
+
+            <img src="pic/cecred-nourishing-hair-oil-spill.jpg" alt="Hair oil texture and shine detail" class="article-detail-image">
+
+            <h2>Who This Kind of Oil Actually Helps</h2>
+            <p>In my experience, silicone-free shine is the sweet spot for anyone who wants gloss <em>and</em> touchability. If you’ve struggled with “too shiny but somehow still dry,” or you’re trying to keep hair bouncy and airy, a lightweight, silicone-free option like <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> can make a noticeable difference.</p>
+
+            <p>My own hair sits in that awkward middle ground—wavy, easily weighed down at the roots but desert-dry at the ends. With heavier silicone oils, I always had to choose between volume and shine. With this, I get a softer middle: my waves still move when I turn my head, but they catch the light in a way that makes people ask, “Did you do something different?”</p>
+
+            <h2>My Quick Checklist Before You Click “Add to Bag”</h2>
+            <ul>
+                <li><strong>Read the ingredient list:</strong> Your hair may prefer lighter oils vs. richer ones—especially if you’re fine-haired. I like that <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred</a> is clear about what’s inside each formula, so I can see how it fits with the rest of my routine.</li>
+                <li><strong>Start smaller than you think:</strong> With oils, the best results usually come from using less. I had to train myself to treat <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> like a finishing touch, not a deep-conditioning mask.</li>
+                <li><strong>Use it where it counts:</strong> Mid-lengths and ends, not roots (unless you’re doing a targeted scalp routine). Focusing the product this way keeps that clean “I just washed my hair” feeling at the scalp.</li>
+            </ul>
+
+            <p>Most of all, pay attention to how your hair feels on the second and third day. That’s where silicone-free formulas quietly prove themselves. For me, the biggest compliment to <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> is that I don’t feel the need to “reset” with a harsh clarifying shampoo every weekend just to get my hair back to neutral.</p>
+
+            <p>If you’re curious, you can explore the full <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred</a> lineup and all the details for <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=e3658JOui4pZ21zyhUeEnl1xe60bWXnGMWr_aChVjjnYgO_baCAK4uEjjOSk2Ge8ERe2BsUpA_c&new=https%3A%2F%2Fcecred.com%2F" target="_blank" rel="noopener">Cécred's Nourishing Hair Oil</a> directly on their site—and then let your own hair decide whether this softer, less “coated” kind of shine feels more like you.</p>
+        `
+    },
+    {
         id: 13,
         title: "Bradford Exchange Exclusive: Precious Moments™ Figurines",
         date: "December 6, 2025",
