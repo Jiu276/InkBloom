@@ -95,6 +95,56 @@ const products = [
 // Sample article data
 const articles = [
     {
+        id: 15,
+        title: "Free Worldwide Delivery on Most Items – Shop Merlin Cycles Today",
+        date: "April 22, 2026",
+        author: "Elliot Carter",
+        image: "https://images.unsplash.com/photo-1571333250630-f0230c320b6d?w=1200",
+        excerpt: "I used to overpay on scattered bike orders until one rainy-night cart check led me to Merlin Cycles; here is the real, rider-to-rider way I shop bikes and parts now, with soft recommendations and plenty of useful links.",
+        content: `
+            <p>Last winter, I came home soaked after a short evening ride, leaned my bike against the hallway wall, and noticed my rear brake was nearly done. I opened three tabs to buy one simple replacement part, and somehow every cart ended with confusing shipping fees. That night was my turning point: I found <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a>, and for once the whole process felt built for actual riders instead of just checkout screenshots.</p>
+
+            <p>I am not saying every order becomes perfect, but the experience is calmer. I can browse <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a>, compare options, and build a realistic cart without that last-minute panic. The line that kept me coming back was simple: <strong>free worldwide delivery on most items</strong>. If you have ever abandoned a cart because shipping suddenly doubled the total, you know how big that feels.</p>
+
+            <p>What I appreciate most is how naturally products connect. I can look at <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a>, then jump to drivetrain parts, then check gear I forgot I needed. It does not read like a loud ad page; it feels more like a tidy workshop where everything is in reach.</p>
+
+            <img src="https://images.unsplash.com/photo-1511994298241-608e28f14fde?w=1200" alt="Road bike rider preparing gear for a long-distance ride" class="article-detail-image">
+
+            <h2>Why This Feels More Like a Recommendation Than a Banner</h2>
+            <p>When friends ask where I shop now, I do not send them a giant promo image. I usually send one sentence: "Start at <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a>, then build your cart in layers." That tiny suggestion has helped two people in my weekend group avoid wrong-part orders this spring.</p>
+
+            <p>If you are shopping for <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a>, the filtering flow is straightforward enough that you can move from "just browsing" to "this actually fits my riding style." If you already own a bike, the parts and accessories range on <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> is broad enough to cover both performance upgrades and boring-but-crucial maintenance bits.</p>
+
+            <h2>How I Actually Shop Bikes and Parts Now</h2>
+            <p>I stopped impulse buying and started using a simple method. Before opening <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a>, I ask: "What problem am I trying to solve on this ride?" Then I shop by need:</p>
+            <ul>
+                <li><strong>Performance days:</strong> lighter wheelsets, responsive gear ratios, and fit tweaks for speed-focused sessions.</li>
+                <li><strong>Comfort days:</strong> saddle, contact points, and tire choices that make long hours feel less punishing.</li>
+                <li><strong>Maintenance days:</strong> chain, cassette, sealant, and tool essentials to keep <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a> dependable.</li>
+            </ul>
+
+            <p>This sounds small, but it changed my spending. My carts on <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> are cleaner, and I buy fewer "maybe useful" extras that end up unopened.</p>
+
+            <img src="https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=1200" alt="Cyclist cleaning and maintaining a bike in a workshop" class="article-detail-image">
+
+            <h2>The Soft-Sell Truth About Delivery</h2>
+            <p>I am usually skeptical of delivery claims, but in day-to-day buying, free worldwide delivery on most items from <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> really does reduce decision fatigue. You spend less time rechecking totals and more time deciding what will genuinely improve your ride.</p>
+
+            <p>It matters even more when you maintain multiple <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a>. The tiny parts are often the hardest to source locally, and having one reliable page on <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> where components, apparel, and accessories sit together is surprisingly comforting.</p>
+
+            <h2>My Rider-to-Rider Checklist</h2>
+            <p>If you are about to place an order on <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a>, this is the exact checklist I send in our group chat:</p>
+            <ol>
+                <li>Confirm compatibility (frame standards, axle sizes, drivetrain speeds).</li>
+                <li>Add two or three maintenance basics before checkout.</li>
+                <li>If buying new <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a>, pair them with safety essentials immediately.</li>
+                <li>Read specs and reviews on <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> before final payment.</li>
+            </ol>
+
+            <p>If your goal is to ride more, stress less, and keep your budget realistic, <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Merlin Cycles</a> is worth a look. Not because of a loud banner, but because the whole shopping flow quietly supports real cycling life: thoughtful product range, dependable options for <a href="https://www.merlincycles.com/" target="_blank" rel="noopener">Bikes</a>, and free worldwide delivery on most items when you need to restock fast.</p>
+        `
+    },
+    {
         id: 14,
         title: "Cécred's Nourishing Hair Oil: All the Shine with No Silicones",
         date: "March 5, 2026",
