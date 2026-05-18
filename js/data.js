@@ -95,6 +95,55 @@ const products = [
 // Sample article data
 const articles = [
     {
+        id: 17,
+        title: "Camplify: Hire Campervans from Trusted Local Owners Across the UK",
+        date: "April 18, 2026",
+        author: "Hannah Reed",
+        image: "https://images.unsplash.com/photo-1527786355594-0c20aa0e0f4e?w=1200",
+        excerpt: "Our first UK road trip almost fell apart at a rental desk—until a friend quietly sent me a link to Camplify. Here is how hiring campervans from trusted local owners changed the way we travel.",
+        content: `
+            <p>We had the route mapped, the playlist ready, and two kids who believed "camping" meant marshmallows at sunset. What we did not have was a vehicle that felt like home. The big rental companies quoted prices that made my stomach drop, and the photos looked like airport shuttles with curtains. Then my sister texted one line: "Try <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a>—you hire from real people."</p>
+
+            <p>That message changed our trip. On <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a>, you can hire campervans from trusted local owners across the UK—not faceless fleets, but vans someone actually sleeps in on weekends. The listing photos showed chipped mugs, folded maps in the glove box, and honest notes about where the kettle lives. It felt human before we even booked.</p>
+
+            <img src="https://images.unsplash.com/photo-1527786355594-0c20aa0e0f4e?w=1200" alt="Campervan parked beside a scenic UK coastline at golden hour" class="article-detail-image">
+
+            <h2>Why "Trusted Local Owners" Actually Matters</h2>
+            <p>When you book through <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a>, you are not just renting metal and wheels. You are borrowing someone's setup—the way they store bedding, which drawer rattles on bumpy lanes, where they stop for coffee near Snowdonia. Our owner sent a short video walk-through before pickup. My partner watched it twice; I cried a little because it finally felt doable with kids.</p>
+
+            <p>We narrowed our search to a compact campervan first, then compared a larger <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Motorhome</a> for the Lake District stretch. Having both options on one site saved us from opening ten tabs and arguing in the kitchen at midnight.</p>
+
+            <h2>How We Picked Our Van (Without Banner Fatigue)</h2>
+            <p>I hate travel sites that scream discounts in every corner. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> felt calmer. We filtered by dates, berths, and whether we needed a toilet on board—non-negotiable with a six-year-old—and read owner replies like neighbourhood recommendations.</p>
+
+            <ul>
+                <li><strong>Campervan vs. Motorhome:</strong> We chose a nimble campervan for Cornwall lanes, then wished we had booked a <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Motorhome</a> for the longer northern leg. Next time we will split the trip that way on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> from the start.</li>
+                <li><strong>Pickup honesty:</strong> Owners listed real quirks—"awning takes two people," "best reversed into driveway." That transparency beat glossy brochure language.</li>
+                <li><strong>Insurance clarity:</strong> The breakdown on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> was plain enough that we knew what we were signing before payment.</li>
+            </ul>
+
+            <img src="https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1200" alt="Family camping evening with campervan and campfire under UK skies" class="article-detail-image">
+
+            <h2>The Soft-Sell Moment That Won Me Over</h2>
+            <p>Our favourite night was not a sponsored highlight—it was a lay-by near the Yorkshire Dales, rain on the roof, pasta boiling on one ring. The kids fell asleep to the hum of the heater. I remember thinking: we would never have had this in a generic hire van with bare cupboards and a smell of industrial cleaner.</p>
+
+            <p>When friends ask how we did the UK without flying hotel-to-hotel, I do not paste a giant ad. I say, "We used <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> and hired campervans from owners who actually use them." Two families have since booked their own trips the same way—one picked a vintage campervan, one went straight for a family-sized <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Motorhome</a>.</p>
+
+            <h2>Practical Tips Before You Book</h2>
+            <p>If you are planning your first peer-to-peer hire on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a>, this is the checklist I send in our group chat:</p>
+            <ol>
+                <li>Message the owner early—ask about bedding, kitchen kit, and ferry rules if you are island-hopping.</li>
+                <li>Match vehicle size to your roads; narrow Cornwall lanes punish oversized rigs.</li>
+                <li>Build a loose itinerary but leave two "flex nights" for weather and tired kids.</li>
+                <li>Compare campervan and <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Motorhome</a> listings on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> before you commit—photos and owner notes tell you more than specs alone.</li>
+            </ol>
+
+            <img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200" alt="Open road through the UK countryside with travel bags ready for a road trip" class="article-detail-image">
+
+            <p>Hiring campervans from trusted local owners across the UK sounds like a tagline until you have handed back the keys and your kid asks when you can "sleep in the van again." For us, <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a> turned a stressful rental hunt into a trip we still talk about at dinner. If you are circling dates for spring or summer, start with a shortlist on <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=f84fOBCw7CaOSTMcoE6XnTF8mBVuju1PUl8RBGjU8S_alS_bpdIGQRFl8YfZlHVJUS6A4e_arbU&new=https%3A%2F%2Fwww.camplify.co.uk" target="_blank" rel="noopener">Camplify</a>, message an owner like you would a neighbour, and let the road do the rest.</p>
+        `
+    },
+    {
         id: 16,
         title: "VSL#3 Ultra-High-Potency Probiotic – Used in Clinical Practice",
         date: "April 15, 2026",
@@ -806,83 +855,6 @@ const articles = [
             <p>This path isn't always easy—sometimes I miss my former "abundance," but whenever I see my tidy space and feel inner tranquility, I know this choice was right. Minimalism isn't deprivation—it's liberation, freeing us from material constraints to focus on truly important things in life.</p>
 
             <p>May everyone find their own way of living, discovering richness in simplicity and inner abundance in minimalism.</p>
-        `
-    },
-    {
-        id: 16,
-        title: "VSL#3 Ultra-High-Potency Probiotic – Used in Clinical Practice",
-        date: "April 15, 2026",
-        author: "Dr. Sarah Mitchell",
-        image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200",
-        excerpt: "When standard probiotics weren't enough, I discovered VSL#3—a clinically-backed, ultra-high-potency formula that's become a cornerstone in managing digestive health. Here's what makes this medical-grade probiotic different from everything else on the shelf.",
-        content: `
-            <p>Three years ago, I sat across from a gastroenterologist who handed me a prescription-strength probiotic recommendation instead of another round of medications. "This isn't your typical grocery store probiotic," she said, sliding a printed sheet across the desk. That sheet had one name on it: <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a>.</p>
-
-            <p>I'd tried probiotics before—the kind with friendly packaging and vague promises about "digestive support." They were fine, but nothing transformative. What I didn't understand then was the difference between consumer-grade supplements and medical-grade formulations designed for clinical use. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> falls firmly in the latter category.</p>
-
-            <img src="https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=1200" alt="Medical professional reviewing probiotic research" class="article-detail-image">
-
-            <h2>What Makes VSL#3 Different</h2>
-            <p>The first thing that sets <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> apart is its potency. We're talking about 450 billion live bacteria per packet—not the 5 or 10 billion you'll find in most over-the-counter options. This isn't just "more is better" marketing; it's a therapeutic dose backed by clinical research.</p>
-
-            <p>The formulation contains eight specific strains of beneficial bacteria, carefully selected and combined in precise ratios. These aren't random probiotic strains—they're the result of decades of research into gut microbiome science. When healthcare providers recommend <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a>, they're recommending something with published studies, not just testimonials.</p>
-
-            <h2>Clinical Applications That Matter</h2>
-            <p>What really caught my attention was learning how <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> is actually used in clinical practice. It's not just for general "gut health"—it's prescribed for specific conditions:</p>
-            <ul>
-                <li><strong>Ulcerative colitis management:</strong> Helping maintain remission in patients with this inflammatory bowel condition.</li>
-                <li><strong>Pouchitis prevention:</strong> Supporting patients who've undergone certain surgical procedures.</li>
-                <li><strong>IBS symptom relief:</strong> Addressing bloating, discomfort, and irregular bowel patterns that impact daily life.</li>
-            </ul>
-
-            <p>My gastroenterologist explained that <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> isn't a cure-all, but it's a tool—one that works best as part of a comprehensive treatment plan. That honesty mattered to me. No miracle claims, just evidence-based medicine.</p>
-
-            <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200" alt="Probiotic supplement with glass of water" class="article-detail-image">
-
-            <h2>My Experience Using VSL#3</h2>
-            <p>Starting <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> required some adjustment. The packets need to be kept refrigerated, which means planning ahead when traveling. I mix mine with cold water or yogurt—never hot liquids, since heat can kill the live bacteria. It's a small ritual that's become part of my morning routine.</p>
-
-            <p>The first two weeks were subtle. I didn't wake up feeling miraculously different, but I noticed fewer "bad days"—those mornings when digestive discomfort would derail my entire schedule. By week four, the pattern was clear: more consistency, less unpredictability, and a general sense that my system was finally working with me instead of against me.</p>
-
-            <p>What I appreciate most is the stability. With <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a>, I'm not constantly wondering if today will be a "good gut day" or a "stay close to home day." That predictability has given me back a level of freedom I didn't realize I'd lost.</p>
-
-            <h2>Understanding the Science</h2>
-            <p>I'm not a scientist, but I've learned enough to understand why potency matters. The gut microbiome is complex—trillions of bacteria working in balance. When that balance is disrupted (by illness, antibiotics, stress, or diet), simply adding a few billion bacteria might not be enough to make a meaningful impact.</p>
-
-            <p><a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a>'s ultra-high potency is designed to deliver enough beneficial bacteria to actually colonize the gut and compete with less helpful microbes. The eight-strain blend works synergistically—each strain has a specific role, and together they create an environment that supports digestive health.</p>
-
-            <p>The research behind <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> includes peer-reviewed studies published in medical journals. That level of scientific scrutiny is rare in the supplement world, and it's one reason why gastroenterologists feel comfortable recommending it.</p>
-
-            <img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=1200" alt="Healthcare consultation about digestive health" class="article-detail-image">
-
-            <h2>Who Should Consider VSL#3</h2>
-            <p>This isn't a probiotic for everyone. If you're generally healthy with no digestive issues, a standard probiotic (or even just a balanced diet) might be all you need. But if you're dealing with:</p>
-            <ul>
-                <li>Diagnosed inflammatory bowel conditions</li>
-                <li>Chronic IBS that hasn't responded to other treatments</li>
-                <li>Post-surgical digestive complications</li>
-                <li>Persistent gut dysbiosis confirmed by your healthcare provider</li>
-            </ul>
-
-            <p>Then <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> is worth discussing with your doctor. It's not something I'd recommend picking up on a whim—this is a medical-grade product that works best under professional guidance.</p>
-
-            <h2>Practical Considerations</h2>
-            <p>A few things I wish I'd known before starting:</p>
-            <ol>
-                <li><strong>Refrigeration is non-negotiable:</strong> These are live bacteria. Keep them cold or they won't work.</li>
-                <li><strong>Consistency matters:</strong> Taking <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> sporadically won't give you the full benefit. Daily use is key.</li>
-                <li><strong>Give it time:</strong> This isn't an instant fix. Plan for at least 4-6 weeks to see meaningful changes.</li>
-                <li><strong>Cost is a factor:</strong> Medical-grade probiotics aren't cheap. Check if your insurance covers it, or ask your doctor about patient assistance programs.</li>
-            </ol>
-
-            <p>I also learned to travel with a small cooler bag and ice packs. It sounds fussy, but once it became routine, it was just another part of packing—like remembering my toothbrush.</p>
-
-            <h2>The Bigger Picture</h2>
-            <p>Using <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> has taught me that gut health isn't just about avoiding discomfort—it's about overall wellbeing. When my digestive system is stable, I sleep better, have more energy, and feel less anxious. The gut-brain connection is real, and supporting one supports the other.</p>
-
-            <p>I still eat mindfully, manage stress, and stay active. <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> isn't a replacement for healthy habits—it's a complement. But it's a powerful one, especially for those of us who need more than what standard probiotics can offer.</p>
-
-            <p>If you're struggling with digestive issues that haven't improved with conventional approaches, talk to your healthcare provider about whether <a href="https://www.linkhaitao.com/index.php?mod=lhdeal&track=638b27BPVwQAQA1sAmcHVTBJ2LuNrC5wqf0fse9lKoFlx7zNGnHU0ngWYQWWSKzyMwBK&new=http%3A%2F%2Fwww.vsl3.com%2F" target="_blank" rel="noopener">VSL#3</a> might be right for you. It's not a miracle cure, but for many people—including me—it's been a game-changer in managing chronic digestive health challenges.</p>
         `
     }
 ];
